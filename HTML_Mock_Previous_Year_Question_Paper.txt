@@ -1,0 +1,77 @@
+MOCK PREVIOUS YEAR QUESTION PAPER Subject: Web Technology – HTML Time: 3
+Hours Maximum Marks: 75
+
+------------------------------------------------------------------------
+
+PART – A (Very Short Answer) Answer ALL questions (10 x 2 = 20 Marks)
+
+1.  What does HTML stands for?
+2.  What is Hypertext?
+3.  What is a Markup Language?
+4.  Write the purpose of the title
+    tag.
+5.  Which tag represents the body section of an HTML document?
+6.  Write any two heading tags in HTML.
+7.  What is the use of <link>
+    tag?
+8.  What is an empty element? Give one example.
+9.  What is the use of <br> tag?
+10. What does the <hr />
+    tag create?
+
+------------------------------------------------------------------------
+
+PART – B (Short Answer Questions) Answer ANY FIVE questions (5 x 5 = 25
+Marks)
+
+11. Explain the structure of a basic HTML document with example.
+
+12. Write notes on HTML Tags and Closing Tags with examples.
+
+13. Explain the purpose of the following tags:
+
+a)  <html>
+
+b)  <head>
+
+c)  <body>
+
+14. Write an HTML program to display all six heading levels.
+
+15. Explain Paragraph Tag with suitable example.
+
+16. What is the use of <pre> tag? Explain with example.
+
+17. Explain Non-Breaking Space ( ) with example.
+
+------------------------------------------------------------------------
+
+PART – C (Long Answer / Program Questions) Answer ANY THREE questions (3
+x 10 = 30 Marks)
+
+18. Write a complete HTML program to display:
+
+-   One heading
+-   Three paragraphs
+-   One horizontal line between paragraphs
+
+19. Create an HTML webpage that demonstrates:
+
+-   Line break
+-   Centered text
+-   Paragraph formatting
+
+20. Explain HTML Elements and differentiate between Tag and Element with
+    examples.
+
+21. Write an HTML program showing Nested HTML Elements using:
+
+-   Heading
+-   Italic text
+-   Underlined paragraph
+
+22. Write short notes on:
+
+a)  <!DOCTYPE> Declaration
+b)  HTML Document Structure
+c)  Void Elements
